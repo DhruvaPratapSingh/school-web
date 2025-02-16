@@ -7,6 +7,7 @@ import Features  from "./components/Features"
 import Courses from "./components/Courses";
 import Choosingus from "./components/Choosingus";
 import Form from "./components/Form";
+import Footer from "./components/Footer";
 const App = () => {
   useEffect(() => {
     AOS.init({ duration: 1000, once: true });
@@ -19,6 +20,7 @@ const App = () => {
         <Courses/>
         <Choosingus/>
         <Form/>
+        <Footer/>
     </div>
   )
 }
