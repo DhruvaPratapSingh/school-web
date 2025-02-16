@@ -18,3 +18,9 @@ export const data=[
         desc:" Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, asperiores. Voluptate animi dolore, laborum alias sequi deleniti distinctio, blanditiis eveniet, voluptatum nisi autem numquam ratione nostrum saepe excepturi illum. Deserunt, ducimus maiores."
     },
 ]
+export const list =[
+    "📚 20+ Online Courses",
+    "🏫 30+ Offline Courses",
+    "👨‍🏫 Expert Faculty",
+    "🎯 Personalized Guidance",
+  ]

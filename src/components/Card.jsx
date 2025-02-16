@@ -1,7 +1,7 @@
 const Card = ({ title, img, desc, id }) => {
   return (
     <div
-     className="bg-gradient-to-br from-gray-800 via-gray-900 to-black bg-opacity-30 backdrop-blur-lg border border-gray-600 w-full max-w-[350px] h-auto flex flex-col items-center p-6 rounded-3xl shadow-xl transform hover:scale-105 transition-all duration-500"
+     className="bg-gradient-to-br from-gray-800 via-gray-900 to-black bg-opacity-30 backdrop-blur-lg border border-gray-600 w-full max-w-[350px] h-auto flex flex-col items-center p-6 rounded-3xl shadow-xl transform hover:scale-102 transition-all duration-300 cursor-pointer"
      key={id}
       data-aos="zoom-in"
     >
