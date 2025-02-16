@@ -1,4 +1,4 @@
-import First from "./components/First"
+import Home from "./components/Home"
 import Navbar from "./components/Navbar"
 import { useEffect } from "react";
 import AOS from "aos";
@@ -10,7 +10,7 @@ const App = () => {
   return (
     <div>
         <Navbar/>
-        <First/>
+        <Home/>
     </div>
   )
 }

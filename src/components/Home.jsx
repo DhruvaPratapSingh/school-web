@@ -1,6 +1,6 @@
 
 
-const First = () => {
+const Home = () => {
 
     return (
       <div className="relative w-full h-screen bg-gradient-to-br from-blue-500 via-purple-500 to-orange-400 flex flex-col md:justify-between md:items-center md:flex-row p-6">
@@ -26,5 +26,5 @@ const First = () => {
     );
   };
   
-  export default First;
+  export default Home;
   
