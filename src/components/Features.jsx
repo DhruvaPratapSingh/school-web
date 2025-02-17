@@ -11,7 +11,7 @@ const Features = () => {
         >
           School Features
         </h1>
-        <p  className="text-xl md:text-2xl lg:text-2xl font-bold text-gray-300 bg-opacity-10 px-4 py-2 rounded-lg shadow-md"
+        <p  className="text-xl md:text-2xl lg:text-2xl font-bold text-gray-300 bg-opacity-10 px-4 py-2 rounded-lg shadow-md text-center"
           data-aos="fade-right"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, asperiores.</p>
       </div>
 
